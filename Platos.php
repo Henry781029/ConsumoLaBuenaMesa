@@ -1,6 +1,7 @@
 <?php include('encabezados/header.php')?>
 
 <div class="container-p-4">
+    <br>
     <h1>REGISTRAR PLATOS</h1>
     <br>
     <div class="row">

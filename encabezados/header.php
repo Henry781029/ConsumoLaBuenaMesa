@@ -23,13 +23,10 @@
                     <a class="nav-link" href="Platos.php">Registrar Plato</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">PQRs</a>
+                    <a class="nav-link" href="buscar_plato.php" tabindex="-1" aria-disabled="true">Busqueda Plato</a>
                     </li>
                 </ul>
-            <form class="d-flex">
-                <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search">
-                <button class="btn btn-outline-success" type="submit">Ir</button>
-            </form>
+    
             </div>
         </div>
     </nav>
